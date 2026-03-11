@@ -1138,3 +1138,41 @@ index = 0;
 track.style.transform = `translateX(-${index * 330}px)`;
 
 },3000);
+
+  .edit-showcase{
+padding:70px 20px;
+text-align:center;
+}
+
+.section-title{
+color:gold;
+font-size:32px;
+margin-bottom:30px;
+}
+
+
+.video-box{
+max-width:400px;
+margin:auto;
+}
+
+.video-box video{
+width:100%;
+aspect-ratio:9/16;
+border-radius:12px;
+box-shadow:0 0 20px rgba(255,215,0,0.4);
+object-fit:cover;
+}
+
+.project-file{
+margin-top:25px;
+}
+
+.project-btn{
+background:linear-gradient(45deg,#FFD700,#C0C0C0);
+padding:12px 25px;
+border-radius:30px;
+text-decoration:none;
+color:black;
+font-weight:bold;
+}
