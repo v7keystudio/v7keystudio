@@ -23,10 +23,6 @@
 <img src="J.gif" width="800" alt="V7KEYSTUDIO">
 
 </div>
-
-<br>
-
-<div align="center">
   
 ## 👋 About Me
 
