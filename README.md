@@ -18,7 +18,16 @@
 </div>
 
 ---
+<div align="center">
 
+<img src="J.gif" width="800" alt="V7KEYSTUDIO">
+
+</div>
+
+<br>
+
+<div align="center">
+  
 ## 👋 About Me
 
 I'm **V7KEYSTUDIO**, a B.Sc. IT student and self-taught developer focused on building **modern web experiences, applications, creative interfaces and AI-powered projects**.
