@@ -1,36 +1,153 @@
-# 💫 About Me:
-💻 Passionate B.Sc. IT Student & Self-Taught Developer  <br>🚀 Currently building modern Web & Android applications  <br>🌱 Learning Full Stack Development, Python & Cybersecurity  <br>🎯 Interested in UI/UX, Mobile Apps and AI-powered projects  <br>🤝 Open to collaborating on open-source and innovative projects  <br>💬 Ask me about HTML, CSS, JavaScript, Python, Git & GitHub  <br>⚡ Fun Fact: I enjoy turning creative ideas into real-world projects.
+<div align="center">
 
+# ⚡ V7KEYSTUDIO
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/v7keystudio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-shivaji-yadav-ba1bbb3bb) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/v7keystudio) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/v7keystudio) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/v7keystudio) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:v7keystudio@gmail.com) 
+### Developer • Designer • AI Enthusiast • Creative Technologist
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=V7KEYSTUDIO&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=V7KEYSTUDIO&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=V7KEYSTUDIO&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  <b>Building digital experiences where code, design and intelligence meet.</b>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=V7KEYSTUDIO&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="https://portfolio.v7keystudio.workers.dev">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111111?style=for-the-badge" alt="Portfolio">
+</a>
+<a href="https://github.com/v7keystudio">
+  <img src="https://img.shields.io/badge/🐙%20GitHub-V7KEYSTUDIO-111111?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=V7KEYSTUDIO&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
 
-<!--
-**v7keystudio/v7keystudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **V7KEYSTUDIO**, a B.Sc. IT student and self-taught developer focused on building **modern web experiences, applications, creative interfaces and AI-powered projects**.
 
-Here are some ideas to get you started:
+I enjoy working at the intersection of **development, design and emerging technology** — turning an idea from a concept into something people can actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Building modern **Web & Android applications**
+- 🤖 Exploring **AI-powered products and intelligent interfaces**
+- 🎨 Interested in **UI/UX, visual design and interactive experiences**
+- 🐍 Working with **Python** and modern programming technologies
+- 🌐 Exploring **Full-Stack Development**
+- 🔐 Exploring **Cybersecurity & secure application development**
+- ☁️ Working with modern **cloud & deployment platforms**
+- 🧩 Building projects to learn by actually shipping
+- 🤝 Open to **open-source collaboration, creative projects and interesting ideas**
+
+> **My approach:** Learn → Build → Break → Improve → Ship.
+
+---
+
+## 🧠 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Development
+
+- Web Applications
+- Android Applications
+- Frontend Development
+- Backend & APIs
+- Interactive UI
+- Responsive Design
+- Cloud Deployment
+
+</td>
+<td width="50%">
+
+### 🎨 Design & Creative Tech
+
+- UI/UX Design
+- Visual Design
+- Interactive Experiences
+- Motion & Visual Effects
+- Creative Web Design
+- Product Interfaces
+- AI-assisted Creative Workflows
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages & Development
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### ☁️ Cloud & Platforms
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+
+### 🎨 Design & Creative Tools
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+
+### 🧩 Frameworks & Tools
+
+![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=javafx&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-217346?style=for-the-badge&logo=Qt&logoColor=white)
+![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
+
+---
+
+## 🚀 Featured Work
+
+I build projects that combine **functionality, visual design and experimentation**.
+
+### 🎵 Anirudh-Music
+
+A cinematic interactive web experience dedicated to the musical journey, discography and career of Anirudh Ravichander.
+
+**Focus:**  
+`Interactive UI` • `Motion Design` • `JavaScript` • `GSAP` • `Responsive Design`
+
+🔴 **Live:** https://v7keystudio.github.io/Anirudh-Music/
+
+---
+
+### 🥤 Chill with Sprite
+
+An interactive product-card experiment built around CSS transitions, transforms, hover interactions and visual effects.
+
+**Focus:**  
+`HTML` • `CSS` • `Animations` • `UI Design` • `Interaction Design`
+
+🔴 **Live:** https://v7keystudio.github.io/ChillwithSprite/
+
+### 🧿 And Many More 🙂
+
+---
+
+## 🎯 Current Focus
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   FULL-STACK DEVELOPMENT       █████████░░              │
+│   AI & INTELLIGENT APPS        ████████░░░              │
+│   UI / UX & DESIGN             █████████░░              │
+│   PYTHON DEVELOPMENT           ████████░░░              │
+│   CLOUD & DEPLOYMENT           ███████░░░░              │
+│   CYBERSECURITY                ██████░░░░░              │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
